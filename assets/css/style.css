@@ -1,0 +1,19 @@
+header {
+	font-size: 100px;
+	font-weight: bold;
+	color:blue;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#user-letters {
+	font-weight:bold;
+	font-size: 60px;
+}
+
+#game {
+	text-align: center;
+}
